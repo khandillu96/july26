@@ -97,8 +97,11 @@ li {
 /*=================================
   Header styling starts here
 =================================*/
-
-
+header .wrapper {
+ color: aqua;
+ display: flex;
+ justify-content: space-between;
+}
 
 
 
